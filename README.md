@@ -1,0 +1,1 @@
+Use the Betfair API to collect market data.
